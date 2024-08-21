@@ -1,2 +1,1 @@
-# nuevoRepository2
-nueva prueba de repositorio 2
+editado de code nueva prueba de repositorio 2
